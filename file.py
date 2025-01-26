@@ -11,7 +11,7 @@ if len(lines) >= 2:
     office = lines[1].strip().replace('\\', '/')
     
 # Load the Excel file
-# gst_file_path = "C:/Users/Lenovo/Downloads/122024_36ABSPP3929L1ZU_GSTR2B_21012025 (1).xlsx" # Replace with your file path
+# gst_file_path = "C:/Users/Lenovo/Downloads/1gstfile (1).xlsx" # Replace with your file path
 gst_file_path = gst
 sheet_name = "B2B"  # Replace with the name of the sheet you want to import
 gst_df = pd.read_excel(gst_file_path , sheet_name=sheet_name)
